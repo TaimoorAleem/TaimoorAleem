@@ -8,6 +8,6 @@ I'm **Taimoor Aleem**, an aspiring and passionate Full-Stack Developer driven by
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
 - **Backend:** 
-  - **ASP.NET:** Web Forms, MVC, Web API
+  - **ASP.NET Core:** Web Forms, MVC, Web API
   - **Spring Boot:** Java, Spring MVC, Spring Data
 - **Database:** Microsoft SQL Server
