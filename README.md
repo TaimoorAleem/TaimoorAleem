@@ -7,12 +7,12 @@
 
 <p align="center">Back-End</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,cs,c,cpp,dotnet,spring,py,flask,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,cs,c,cpp,dotnet,spring,py,flask" />
 </p>
 
 <p align="center">Tools / Technologies</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,mysql,sqlite,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,sqlite,firebase,aws" />
 </p>
 
 <h2 align="center">Socials</h5>
